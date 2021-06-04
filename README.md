@@ -11,6 +11,11 @@
   </sub>
 </div>
 
+ 
+<div align="center">
+    <a href="https://tiagosilva-desafio.netlify.app/">para conferir como ficou e so clickar aqui
+</div> 
+ 
 # 📌 Conteudo
 
 * [Screenshots](#camera-screenshots)
