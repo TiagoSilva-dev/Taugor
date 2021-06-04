@@ -13,7 +13,7 @@
 
  
 <div align="center">
-    <a href="https://tiagosilva-desafio.netlify.app/">para conferir como ficou e so clickar aqui
+    <a href="https://tiagosilva-desafio.netlify.app/" target="_blank">para conferir como ficou e so clickar aqui
 </div> 
  
 # 📌 Conteudo
